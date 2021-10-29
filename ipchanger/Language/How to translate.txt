@@ -1,0 +1,8 @@
+1. Make a copy of English.lang
+2. Rename it to your language. (ex: Swedish.lang)
+3. Open The file you made whit notepad
+4. Transle all things in the file and save
+5. You can now se your language in the ip changer.
+6. Share it whit others ;)
+
+// Asprate
